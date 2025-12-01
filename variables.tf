@@ -3,7 +3,7 @@ variable "postgres_user" {
 }
 
 variable "postgres_password" {
-  default = "admin123"
+  default = "admin1234"
 }
 
 variable "postgres_db" {
